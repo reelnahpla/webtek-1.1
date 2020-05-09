@@ -1,0 +1,29 @@
+nav.navbar.navbar-expand-md.navbar-dark {
+    background: #004085;
+    box-shadow: 1px 1px 1px 1px #585858;
+}
+
+body {
+    background: #eaeaea;
+}
+
+ul.navbar-nav {
+    float: right;
+}
+
+div#menu {
+    float: right;
+    color: #crimson;
+}
+
+.container div#orta {
+    background: #FFF;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px 1px #CCC;
+}
+
+.container div#orta p {
+    font-size: 14px;
+    padding: 10px;
+    line-height: 28px;
+}
